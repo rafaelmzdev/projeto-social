@@ -46,6 +46,11 @@ section#redes-sociais{
     text-align: right;
 }
 
+#redes-sociais{
+    text-align: right;
+    position: relative;
+}
+
 section#redes-sociais img{
     width: 50px;
     margin: 10px;
